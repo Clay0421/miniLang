@@ -1,0 +1,100 @@
+je
+tu
+il
+elle
+ca
+nous
+ils
+est
+sont
+etait
+etaient
+etre
+avoir
+a
+avait
+faire
+fait
+faisait
+dire
+dit
+aller
+va
+allait
+venir
+est venu
+voir
+a vu
+regarder
+regardait
+faire
+a fait
+savoir
+savait
+penser
+pensait
+prendre
+a pris
+vouloir
+voulait
+donner
+a donne
+obtenir
+a obtenu
+avoir besoin de
+avait besoin de
+trouver
+a trouve
+dire
+a dit
+appeler
+a appele
+essayer
+a essaye
+demander
+a demande
+sentir
+a senti
+devenir
+est devenu
+quitter
+a quitte
+mettre
+a mis
+signifier
+signifiait
+garder
+a garde
+permettre
+a permis
+commencer
+a commence
+aider
+a aide
+parler
+a parle
+tourner
+a tourne
+commencer
+a commence
+montrer
+a montre
+entendre
+a entendu
+jouer
+a joue
+courir
+a couru
+bouger
+a bouge
+aimer
+a aime
+vivre
+a vecu
+croire
+a cru
+tenir
+a tenu
+apporter
+a apporte
+arriver
